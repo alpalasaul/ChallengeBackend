@@ -91,7 +91,7 @@ public class AuthController {
 
         //TODO; VERIFICAR SI AUN SE SIGUEN ENVIANDO LOS CORREOS DE BIENVENIDA (ME CANCELARON LA CUENTA)
         //enviar mensaje de bienvenida
-        mailService.sendTextEmail(signUpRequest.getEmail());
+        //mailService.sendTextEmail(signUpRequest.getEmail());
 
         Set<String> strRoles = signUpRequest.getRole();
         Set<Role> roles = new HashSet<>();

@@ -5,31 +5,58 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="ee1b783f-c421-4dba-9014-4b388a7dbdda" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mvnw" beforeDir="false" afterPath="$PROJECT_DIR$/mvnw" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/ChallengeBackendApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/ChallengeBackendApplication.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/dao/repository/GenderRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/dao/repository/GenderRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/dao/repository/MovieRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/dao/repository/MovieRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/dao/repository/RoleRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/dao/repository/RoleRepository.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/domain/dto/GenderDTO.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/domain/dto/GenderDTO.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/services/CharacterService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/services/CharacterService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/services/CharacterServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/services/CharacterServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/services/MovieService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/services/MovieService.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/services/MovieServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/services/MovieServiceImpl.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/services/UserDetailsServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/services/UserDetailsServiceImpl.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/controllers/AuthController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/controllers/AuthController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/controllers/CharacterController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/controllers/CharacterController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/controllers/TestController.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/controllers/TestController.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/exceptions/BlogAppException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/exceptions/BlogAppException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/exceptions/ResourceNotFoundException.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/exceptions/ResourceNotFoundException.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/exceptions/customExceptionAdvice.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/payload/request/LoginRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/payload/request/LoginRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/payload/request/SignupRequest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/payload/request/SignupRequest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/payload/response/CharacterResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/payload/response/CharacterResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/payload/response/JwtResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/payload/response/JwtResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/payload/response/MessageResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/payload/response/MessageResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/payload/response/MovieResponse.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/payload/response/MovieResponse.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/security/WebSecurityConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend/web/security/WebSecurityConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/ChallengeBackendApplication.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/ChallengeBackendApplication.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/dao/repository/CharacterRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/dao/repository/CharacterRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/dao/repository/GenderRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/dao/repository/GenderRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/dao/repository/MovieRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/dao/repository/MovieRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/dao/repository/RoleRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/dao/repository/RoleRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/dao/repository/UserRepository.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/dao/repository/UserRepository.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/dto/CharacterDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/dto/CharacterDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/dto/GenderDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/dto/GenderDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/dto/MovieDTO.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/dto/MovieDTO.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/models/Character.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/models/Character.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/models/ERole.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/models/ERole.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/models/Gender.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/models/Gender.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/models/Movie.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/models/Movie.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/models/Role.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/models/Role.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/models/User.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/domain/models/User.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/CharacterService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/CharacterService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/CharacterServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/CharacterServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/GenderService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/GenderService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/GenderServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/GenderServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/MailService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/MailService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/MovieService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/MovieService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/MovieServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/MovieServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/UserDetailsImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/UserDetailsImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/UserDetailsService.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/UserDetailsService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/UserDetailsServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/services/UserDetailsServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/util/Constants.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/util/Constants.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/controllers/AuthController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/controllers/AuthController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/controllers/CharacterController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/controllers/CharacterController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/controllers/GenderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/controllers/GenderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/controllers/MovieController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/controllers/MovieController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/controllers/TestController.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/controllers/TestController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/exceptions/BlogAppException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/exceptions/BlogAppException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/exceptions/ResourceNotFoundException.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/exceptions/ResourceNotFoundException.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/payload/request/LoginRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/payload/request/LoginRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/payload/request/SignupRequest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/payload/request/SignupRequest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/payload/response/CharacterResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/payload/response/CharacterResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/payload/response/JwtResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/payload/response/JwtResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/payload/response/MessageResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/payload/response/MessageResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/payload/response/MovieResponse.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/payload/response/MovieResponse.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/security/WebSecurityConfig.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/security/WebSecurityConfig.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/security/jwt/AuthEntryPointJwt.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/security/jwt/AuthEntryPointJwt.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/security/jwt/AuthTokenFilter.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/security/jwt/AuthTokenFilter.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/security/jwt/JwtUtils.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/api/ChallengeBackend/web/security/jwt/JwtUtils.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/com/api/ChallengeBackend/ChallengeBackendApplicationTests.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/com/api/ChallengeBackend/ChallengeBackendApplicationTests.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,8 +111,10 @@
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/src/main/java/com/api/ChallengeBackend" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
@@ -97,7 +126,7 @@
       <recent name="com.api.ChallengeBackend" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="Application.ChallengeBackendApplication">
     <configuration name="ChallengeBackendApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.api.ChallengeBackend.ChallengeBackendApplication" />
       <module name="ChallengeBackend" />
@@ -107,6 +136,13 @@
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ChallengeBackendApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="ChallengeBackend" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.api.ChallengeBackend.ChallengeBackendApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -125,8 +161,14 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1650634090538</updated>
+      <workItem from="1661951579032" duration="1434000" />
+      <workItem from="1662098401207" duration="2452000" />
+      <workItem from="1662101504572" duration="631000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.History.Properties">
     <option name="COLUMN_ID_ORDER">
