@@ -1,0 +1,21 @@
+version: "3"
+services:
+  argos-auth:
+    image: argos-auth:v2
+    ports:
+      - "8080:8080"
+    networks:
+      - argos-auth-net
+    depends_on:
+      - mysqldb
+ 
+  mysqldb:
+    image: mysql:latest
+    networks:
+      - argos-auth-net
+    environment:
+      - MYSQL_ROOT_PASSWORD=admin
+      - MYSQL_DATABASE=helmet
+
+networks:
+  argos-auth-net: 

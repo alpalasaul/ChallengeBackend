@@ -9,10 +9,10 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.api</groupId>
-	<artifactId>ChallengeBackend</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
-	<name>ChallengeBackend</name>
-	<packaging>war</packaging>
+	<artifactId>argos-auth</artifactId>
+	<version>1</version>
+	<name>argos-auth</name>
+	<packaging>jar</packaging>
 	<description>CHALLENGE BACKEND - project for Spring Boot</description>
 	<properties>
 		<java.version>11</java.version>
